@@ -1,16 +1,16 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Hridoy Khan! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=re3h5&color=blue)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Learning Topic]
-- 👯 I’m looking to collaborate on [Collaboration Topic]
-- 🤔 I’m looking for help with [Help Topic]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Fun Fact]
+- 🔭 I’m currently working on web development 
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on web development
+- 🤔 I’m looking for help with python
+- 💬 Ask me about ....
+- 📫 How to reach me: .....
+- 😄 Pronouns: ....
+- ⚡ Fun fact: .....
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
